@@ -1,7 +1,3 @@
-Here is a README for the "AI-Driven Market Strategy for Mobile Handset Leasing" project:
-
----
-
 # AI-Driven Market Strategy for Mobile Handset Leasing
 
 ## Overview
