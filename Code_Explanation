@@ -1,20 +1,18 @@
-1. **Data Loading and Cleaning:**
+1.Data Loading and Cleaning:
    - Load the dataset from an Excel file.
    - Clean the data by removing any missing values.
 
-2. **Data Analysis:**
+2.Data Analysis:
    - Analyze customer segments and visualize the distribution.
    - Create a new feature for revenue per customer and visualize its distribution.
 
-3. **Financial Modeling:**
+3.Financial Modeling:
    - Use linear regression to predict total revenue based on the number of customers and average handset price.
    - Evaluate the model using mean squared error and R-squared metrics.
    - Visualize the actual vs. predicted total revenue.
 
-4. **Excel Integration:**
+4. Excel Integration:
    - Write the predictions back to an Excel file for further analysis.
 
-5. **Final Recommendations:**
+5.Final Recommendations:
    - Provide actionable recommendations based on the analysis and modeling results.
-
-Feel free to customize the dataset path and feature names based on your actual dataset.
