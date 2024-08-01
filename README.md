@@ -39,7 +39,7 @@ This project was part of the BCG Strategy Consulting Virtual Experience Program,
    - Summarized findings and developed strategic recommendations.
    - Created visual presentations to communicate results effectively.
 
-## Example Python Code
+Python Code(Complete code above)
 
 ```python
 import pandas as pd
